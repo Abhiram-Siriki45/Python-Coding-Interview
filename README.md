@@ -7,7 +7,7 @@
 
 ---
 
-## 2. What are the Distinct features of Python?
+## 2. What are the Distinct Features of Python?
 
 > 1. Structured and functional programmings are supported.
 > 2. It can be compiled to byte-code for creating larger applications.
@@ -18,7 +18,7 @@
 
 ---
 
-## 3. What is Python path?
+## 3. What is Python Path?
 
 > A Python path tells the Python interpreter to locate the module files that can be imported into the program. It includes the Python source library directory and source code directory.
 
