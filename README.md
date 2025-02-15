@@ -3,11 +3,11 @@
 
 ## 1. Explain Python?
 
-> Python is a highly comprehensive, interactive, and object-oriented scriptwriting language. It was developed to make the content highly readable among net surfers. Python makes use of various English keywords other than just punctuations. 
+> Python is a Highly comprehensive, interactive, and object-oriented scriptwriting language. It was developed to make the content highly readable among net surfers. Python makes use of various English keywords other than just punctuations. 
 
 ---
 
-## 2. What are the distinct features of Python?
+## 2. What are the Distinct features of Python?
 
 > 1. Structured and functional programmings are supported.
 > 2. It can be compiled to byte-code for creating larger applications.
