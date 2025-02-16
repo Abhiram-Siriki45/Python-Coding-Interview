@@ -25,7 +25,7 @@
 ---
 
 ## 4. What are the supported standard data types in Python?
-> The supported standard data types in Python include the following.
+> The Supported standard data types in Python include the following.
 > 
 > 1. List
 > 2. Number
